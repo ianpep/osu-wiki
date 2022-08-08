@@ -40,7 +40,7 @@ Note: Ranked score, while technically existing for nearly a year before this poi
 
 ## ppv2 Era 
 
-During 2012, ppv2 was added into osu!taiko as the main way of ranking players.
+During 2012, the ranking system was changed to ppv2.
 
 | Player | From | To |
 | --: | :-- | :-- |
@@ -61,6 +61,8 @@ During 2012, ppv2 was added into osu!taiko as the main way of ranking players.
 | ::{ flag=SK }:: [applerrs](https://osu.ppy.sh/users/983349) | 2020-01-28 | *2021-05-09* |
 
 ## Morth SR Era
+
+During 2020, the pp system and SR system was reworked.
 
 | Player | From | To |
 | --: | :-- | :-- |
